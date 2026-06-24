@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40" role="img" aria-label="Stitch logo beige">
+  <rect width="160" height="40" rx="8" fill="#fff8f5" />
+  <circle cx="28" cy="20" r="12" fill="#53352b" />
+  <text x="56" y="25" font-family="Playfair Display, serif" font-size="20" fill="#53352b">Stitch</text>
+</svg>
